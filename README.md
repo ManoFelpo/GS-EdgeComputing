@@ -29,3 +29,9 @@ A distância do sensor ao nível da água é convertida para altura de enchente.
 ## 🎮 Simulação
 
 Simule este projeto no [Tinkercad](https://www.tinkercad.com/things/9lMz4WCONz3-gs-edgecomputing/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits)
+
+## 🎥 Vídeo de Apresentação
+
+Clique para assistir à demonstração completa do funcionamento do sistema:
+
+▶️ **[Assistir no Loom](https://www.loom.com/share/7ef9e8d997144262900828017daf74cb?sid=d8feaeea-1d1c-4e14-b312-70c045b341bb)**
